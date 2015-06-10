@@ -11,7 +11,7 @@ public class EstudanteRepository {
 
 	private EntityManager manager;
 	
-	public EstudanteRepository(EntityManager manager){
+	public EstudanteRepository(EntityManager manager){  
 		this.manager = manager;
 	}
 

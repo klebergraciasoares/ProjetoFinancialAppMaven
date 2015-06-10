@@ -1,0 +1,11 @@
+127.0.0.1 - - [10/Jun/2015:14:13:46 -0300] "GET / HTTP/1.1" 404 994
+127.0.0.1 - - [10/Jun/2015:14:13:47 -0300] "GET /ProjetoFinancialApp/ HTTP/1.1" 404 992
+127.0.0.1 - - [10/Jun/2015:14:13:55 -0300] "GET /ProjetoFinancialApp/index.jsf HTTP/1.1" 404 992
+127.0.0.1 - - [10/Jun/2015:14:14:28 -0300] "GET / HTTP/1.1" 404 994
+127.0.0.1 - - [10/Jun/2015:14:14:28 -0300] "GET /ProjetoFinancialApp/ HTTP/1.1" 404 992
+127.0.0.1 - - [10/Jun/2015:14:16:23 -0300] "GET / HTTP/1.1" 404 994
+127.0.0.1 - - [10/Jun/2015:14:18:17 -0300] "GET / HTTP/1.1" 404 994
+127.0.0.1 - - [10/Jun/2015:14:18:18 -0300] "GET /ProjetoFinancialAppMaven/ HTTP/1.1" 404 992
+127.0.0.1 - - [10/Jun/2015:14:18:24 -0300] "GET /ProjetoFinancialAppMaven/index.jsf HTTP/1.1" 404 992
+127.0.0.1 - - [10/Jun/2015:14:19:14 -0300] "GET / HTTP/1.1" 404 994
+127.0.0.1 - - [10/Jun/2015:14:19:14 -0300] "GET /ProjetoFinancialAppMaven/ HTTP/1.1" 200 251
